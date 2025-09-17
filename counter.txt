@@ -1,0 +1,2 @@
+Commit count: 0
+init: 初始化计数器
